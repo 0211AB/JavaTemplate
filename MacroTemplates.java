@@ -6,7 +6,7 @@ import java.util.*;
 import java.io.*;
 import java.math.*;
 
-public class MacroTemplates {
+public class Main {
     static class FastReader {
         BufferedReader br;
         StringTokenizer st;
